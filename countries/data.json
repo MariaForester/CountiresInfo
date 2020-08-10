@@ -1,0 +1,7 @@
+{
+    "corresponding_countries": [{
+		"NATO": ["USA", "DEU", "FRA", "CAN", "HRV"],
+		"EU": ["DEU", "FRA", "HRV", "FIN"],
+		"CSTO": ["RUS", "BLR", "ARM"] 
+	}]
+}
